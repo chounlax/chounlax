@@ -2,8 +2,8 @@
 <h3 align="center">Développeur web & mobile · Étudiant BTS SIO (2e année)</h3>
 
 <p align="center">
-  <a href="https://chounlax.github.io/Portfolio"><img src="https://img.shields.io/badge/Portfolio-chounlax.github.io-0A66C2?style=for-the-badge" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Stage-04%2F01%20%E2%86%92%2013%2F02%2F2027-2EA44F?style=for-the-badge" alt="Recherche de stage">
+  <a href="https://sean-thompson.dev"><img src="https://img.shields.io/badge/Portfolio-sean--thompson.dev-0A66C2?style=for-the-badge" alt="Portfolio"></a>
+  <img src="https://img.shields.io/badge/Alternance-Licence%20pro%20%C2%B7%20rentr%C3%A9e%202027-2EA44F?style=for-the-badge" alt="Recherche d'alternance">
   <img src="https://img.shields.io/badge/Localisation-Arras-555?style=for-the-badge" alt="Arras">
 </p>
 
@@ -16,7 +16,7 @@ Rigoureux et à l'aise en équipe, j'aime livrer un travail propre et compréhen
 
 - 🎓 BTS SIO (Services Informatiques aux Organisations) — 2e année, 2025 → 2027
 - 💼 Auto-entrepreneur — **Datafast**
-- 🔎 **Je recherche un stage de 6 semaines du 04/01 au 13/02/2027**
+- 🔎 **Je recherche une alternance pour ma licence professionnelle (rentrée 2027)**
 - 🌍 Français · Anglais
 
 ### Stack
@@ -51,4 +51,4 @@ Site personnel sous Symfony avec scène 3D interactive, déployé automatiquemen
 
 ---
 
-<p align="center">Projets détaillés sur mon <a href="https://chounlax.github.io/Portfolio">portfolio</a> — n'hésitez pas à me contacter pour un stage !</p>
+<p align="center">Projets détaillés sur mon <a href="https://sean-thompson.dev">portfolio</a> — n'hésitez pas à me contacter pour une alternance !</p>

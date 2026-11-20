@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://sean-thompson.dev"><img src="https://img.shields.io/badge/Portfolio-sean--thompson.dev-0A66C2?style=for-the-badge" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Alternance-Licence%20pro%20%C2%B7%20rentr%C3%A9e%202027-2EA44F?style=for-the-badge" alt="Recherche d'alternance">
+  <img src="https://img.shields.io/badge/Alternance-Bac%2B3%20%C2%B7%20rentr%C3%A9e%202027-2EA44F?style=for-the-badge" alt="Recherche d'alternance">
   <img src="https://img.shields.io/badge/Localisation-Arras-555?style=for-the-badge" alt="Arras">
 </p>
 
@@ -16,7 +16,7 @@ Rigoureux et à l'aise en équipe, j'aime livrer un travail propre et compréhen
 
 - 🎓 BTS SIO (Services Informatiques aux Organisations) — 2e année, 2025 → 2027
 - 💼 Auto-entrepreneur — **Datafast**
-- 🔎 **Je recherche une alternance pour ma licence professionnelle (rentrée 2027)**
+- 🔎 **Je recherche une alternance en bac+3 (rentrée 2027)**
 - 🌍 Français · Anglais
 
 ### Stack
